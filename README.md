@@ -28,7 +28,10 @@ This project implements several advanced techniques for enhancing images capture
 └── notebook/               # Execution notebooks
     ├── SSIF_2Step.ipynb    # 2-Step SSIF Implementation
     ├── SSIF_3Steps.ipynb   # 3-Step SSIF Implementation
+    ├── ssif-gaussian-blur.ipynb   # SSIF with Gaussian blurring
+    ├── ssif-denoise-gamma.ipynb   # SSIF with denoising gamma correction
     └── SSIF_enhancement.ipynb # Comprehensive guide with multiple methods
+    
 ```
 
 ## 🛠️ Dependencies
