@@ -63,4 +63,4 @@ pip install opencv-python numpy matplotlib scipy torch torchvision ipywidgets
 ![SSIF Result](images/output.png)
 
 ### Method Comparison
-![Comparison](images/comparsion.png)
+![Comparison](images/comparison.png)
